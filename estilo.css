@@ -1,0 +1,21 @@
+*{
+    background-origin: border-box;
+}
+html{
+    background-color: black;
+}
+div{
+    color: green;
+    width: 500px;
+    border: 2px solid white;
+}
+body{
+    background-image: linear-gradient(15deg, white, rgb(112, 112, 117), rgb(15, 23, 24) );
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgb(253, 108, 108);
+    padding: 20px 20px 20px 20px;
+    border: 5px solid rgb(73, 71, 71);
+    text-align: center;
+
+}
